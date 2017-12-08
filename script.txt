@@ -1,0 +1,16 @@
+akhil nanrang script - git clone https://github.com/akhilnarang/scripts 
+cd scripts
+ bash setup/ubuntu1604*
+ 
+ 
+ source forge- 
+ cd out/target/product/codename 
+
+sftp username@frs.sourceforge.net
+
+cd /home/frs/project/dotos-ota/codename
+
+
+export KBUILD_BUILD_USER=yournewcoolname
+
+
